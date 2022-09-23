@@ -1,0 +1,52 @@
+<option AVANIGADDA">AVANIGADDA</option>
+<option BHASKARARAOPET">BHASKARARAOPET</option>
+<option CHALLAPALLI_(K)">CHALLAPALLI (K)</option>
+<option CHANDARLAPADU">CHANDARLAPADU</option>
+<option CHANUBANDA">CHANUBANDA</option>
+<option DONDAPADU">DONDAPADU</option>
+<option EDARA">EDARA</option>
+<option GANDHINAGAR">GANDHINAGAR</option>
+<option GANDRAYI">GANDRAYI</option>
+<option GANNAVARAM">GANNAVARAM</option>
+<option GOLLAPALLI">GOLLAPALLI</option>
+<option GOLLAPUDI">GOLLAPUDI</option>
+<option GOVERNORPET">GOVERNORPET</option>
+<option GUDIVADA">GUDIVADA</option>
+<option GURUNANAK_NAGAR">GURUNANAK NAGAR</option>
+<option IND_MSME,_VIJAYAWADA">IND MSME, VIJAYAWADA</option>
+<option JAGGAYYAPET">JAGGAYYAPET</option>
+<option JUJJURU">JUJJURU</option>
+<option KAIKALURU">KAIKALURU</option>
+<option KANCHIKACHERLA">KANCHIKACHERLA</option>
+<option KANURU">KANURU</option>
+<option KONDANGI">KONDANGI</option>
+<option KONDURU">KONDURU</option>
+<option KOSURU">KOSURU</option>
+<option KOTAPADU">KOTAPADU</option>
+<option KRUTHIVENNU">KRUTHIVENNU</option>
+<option M_M_PADU">M M PADU</option>
+<option MAJERU">MAJERU</option>
+<option MANDAVALLI">MANDAVALLI</option>
+<option MASULIPATNAM">MASULIPATNAM</option>
+<option MICROSAT_VIJAYAWADA">MICROSAT VIJAYAWADA</option>
+<option MOGALRAJAPURAM">MOGALRAJAPURAM</option>
+<option MOVVA">MOVVA</option>
+<option NANDIGAMA">NANDIGAMA</option>
+<option NUZVID">NUZVID</option>
+<option PAMARRU">PAMARRU</option>
+<option PATAMATA">PATAMATA</option>
+<option PATHA_TIRUVURU">PATHA TIRUVURU</option>
+<option PEDAGONNURU">PEDAGONNURU</option>
+<option PEDAKKALLEPALLE">PEDAKKALLEPALLE</option>
+<option PEDATUMMIDI">PEDATUMMIDI</option>
+<option PENDYALA">PENDYALA</option>
+<option POLAVARAM">POLAVARAM</option>
+<option PURITIGADDA">PURITIGADDA</option>
+<option RAMAVARAPPADU">RAMAVARAPPADU</option>
+<option SURYARAOPET">SURYARAOPET</option>
+<option VADLAMANNADU">VADLAMANNADU</option>
+<option VANUKURU">VANUKURU</option>
+<option VATSAVAYI">VATSAVAYI</option>
+<option VIJAYAWADA">VIJAYAWADA</option>
+<option VISSANNAPET">VISSANNAPET</option>
+<option VUYYURU">VUYYURU</option>
